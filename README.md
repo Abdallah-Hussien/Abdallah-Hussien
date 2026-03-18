@@ -5,8 +5,9 @@
 <h1 align="center">Hi, I'm Abdallah Hussien 👋</h1>
 <h3 align="center">Mobile Apps Developer 💻 </h3>
 <p align="center">
-  <a href="www.linkedin.com/in/abdallah-hussien-5b0837236"> <img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  __
+  <a href="https://www.linkedin.com/in/abdallah-hussien-5b0837236">
+  <img src="https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    __
   <a href="https://www.facebook.com/profile.php?id=100017705171585"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 </div>
